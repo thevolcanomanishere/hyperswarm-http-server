@@ -4,3 +4,6 @@ sandbox
 coverage
 .DS_STORE
 hyperswarm-http-server
+hyperswarm-http-server-linux
+hyperswarm-http-server-macos
+hyperswarm-http-server-win.exe
