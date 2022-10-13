@@ -1,26 +1,8 @@
 # hyperswarm-http-server
 
-Simply tool that proxies [http-server](https://www.npmjs.com/package/http-server) over Hyperswarm
+Run `yarn install` and then `yarn run packageAll` to generate executables for MacOS, Windows, or Linux. Prebuilt binaries are availbile from the releases section in this repo.
 
-```
-npm install -g hyperswarm-http-server
-```
-
-## Usage
-
-On the computer where you want to quickly share a folder over http (over hyperswarm)
-
-```
-hyperswarm-http-server
-```
-
-Then take the command it prints and run that on the computer you want to access it on
-
-```
-hyperswarm-http-server ddafbe...
-```
-
-That's it! Just visit the localhost address it prints in a browser to access your files.
+Please see forked repo for a guide to using hyperswarm-http-server.
 
 ## License
 
